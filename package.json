@@ -1,0 +1,28 @@
+{
+  "name": "million-checkbox",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Kenil2910kp/million-checkbox-#readme",
+  "bugs": {
+    "url": "https://github.com/Kenil2910kp/million-checkbox-/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kenil2910kp/million-checkbox-.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "ioredis": "^5.11.1",
+    "nodemon": "^3.1.14",
+    "socket.io": "^4.8.3",
+    "socket.io-client": "^4.8.3",
+    "valkey": "^0.0.3"
+  }
+}
